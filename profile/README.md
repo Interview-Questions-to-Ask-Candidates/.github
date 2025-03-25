@@ -1,4 +1,4 @@
-# Interview Questions Guide
+# Interview Questions to Ask Candidates
 
 Finding the appropriate employee requires great effort. The right **[Interview Questions to Ask Candidates](https://jvcodes.com/category/interview-questions/)** makes it simpler to identify qualified individuals. When faced with the right set of questions it becomes simpler to identify qualified candidates. The guide introduces primary interview questions that correspond to various skill levels of candidates. The interview contains questions about Bootstrap as well as CSS and HTML and JavaScript specifically.
 
